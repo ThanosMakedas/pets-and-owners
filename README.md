@@ -3,13 +3,15 @@ A project where we make a system to list pets and their owners.
 Initial features to work with:
 
 ### Feature: Create JSON
-Assigned Edvin & Tsoler
-Branch: feature-create-json
-This feature can be completed by two developers, one creating each JSON-file.
+# Assigned Edvin & Tsoler
+# Branch: feature-create-json
+# This feature can be completed by two developers, one creating each JSON-file.
 
 Create a folder json and two files in that folder:
 
 pets.json - an array of 3 different objects where each object has the properties name and species for example (one pets)
+
+
 {
   "id": 1
   "name":"Garfield",
